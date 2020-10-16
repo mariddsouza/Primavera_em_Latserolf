@@ -2,11 +2,11 @@ tamB=0
 tamA=0
 K=0
 
-print("Insira o tamanho da string:")
+print("Insira o tamanho da string: ")
 n = int(input())
-print("Insira os valores em binário para a string1:")
+print("Insira os valores em binário para a string1: ")
 s1 = input()
-print("Insira os valores em binário para a string2:")
+print("Insira os valores em binário para a string2: ")
 s2 = input()
 
 for i in range(n):
